@@ -6,6 +6,6 @@ on:
       - 'main'
 jobs:
   ReUse:
-    uses: raghudevopsb84/learn-github-actions/.github/workflows/ci-reusable.yml@main
+    uses: glasshouse747/learn-github-actions/.github/workflows/ci-reusable.yml@main
 
 
